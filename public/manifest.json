@@ -1,0 +1,21 @@
+{
+  "name": "WhatsApp Export Reader",
+  "short_name": "WA Reader",
+  "description": "View your exported WhatsApp chats with a familiar interface",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#25D366",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": []
+}
+
